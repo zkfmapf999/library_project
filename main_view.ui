@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Main_View</class>
+ <widget class="QDialog" name="Main_View">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>808</width>
+    <height>522</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/new/prefix1/Resource/도수콴.PNG);</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>590</x>
+     <y>80</y>
+     <width>171</width>
+     <height>186</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/new/prefix1/Resource/도서추천11.PNG);
+border : 1px solid rgb(255, 221, 221);
+color: rgb(255, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+text-align : bottom;
+padding : 10px;
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+   </property>
+   <property name="text">
+    <string>오늘의 도서</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>280</y>
+     <width>711</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QPushButton" name="pushButton_4">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/new/prefix1/Resource/좌석예약.PNG);
+border : solid 1px rgb(116, 169, 255);
+color: rgb(255, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+text-align : bottom;
+padding : 10px;
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+      </property>
+      <property name="text">
+       <string>좌석 예약</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/new/prefix1/Resource/게시판.PNG);
+border : solid 1px rgb(215, 255, 208);
+color: rgb(255, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+
+text-align : bottom;
+padding : 10px;
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+      </property>
+      <property name="text">
+       <string>게시판</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_7">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/new/prefix1/Resource/내정보.PNG);
+border : solid 1px rgb(215, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+text-align : bottom;
+padding : 10px;
+color: rgb(255, 255, 255);
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+      </property>
+      <property name="text">
+       <string>내 정보</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_8">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-image: url(:/new/prefix1/Resource/나가기.PNG);
+border : solid 1px rgb(64, 77, 255);
+background-repeat : no-repeat;
+background-position : center center;
+text-align : bottom;
+padding : 10px;
+color: rgb(255, 255, 255);
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+      </property>
+      <property name="text">
+       <string>종료하기</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>80</y>
+     <width>172</width>
+     <height>186</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/new/prefix1/Resource/도서찾기11 (1).PNG);
+border : 1px solid rgb(130, 195, 255);
+color: rgb(255, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+text-align : bottom;
+padding : 10px;
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+   </property>
+   <property name="text">
+    <string>도서 찾기 / 예매</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>80</y>
+     <width>351</width>
+     <height>186</height>
+    </rect>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/new/prefix1/Resource/도서목록11 .PNG);
+border : 2px solid rgb(116, 169, 255);
+color: rgb(255, 255, 255);
+background-repeat : no-repeat;
+background-position : center center;
+background-color: rgb(0,162, 232);
+text-align : bottom;
+padding : 10px;
+font: 75 10pt &quot;맑은 고딕&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>도서 목록</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>670</x>
+     <y>480</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/new/prefix1/Resource/white.PNG);
+font: 75 10pt &quot;맑은 고딕&quot;;</string>
+   </property>
+   <property name="text">
+    <string>관리자</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

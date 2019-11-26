@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resource/testPicture.PNG</file>
+        <file>Resource/exit.png</file>
+        <file>Resource/find.png</file>
+        <file>Resource/information.png</file>
+        <file>Resource/list.png</file>
+        <file>Resource/seat.png</file>
+        <file>Resource/seeboard.png</file>
+        <file>Resource/JAZZLIFE.PNG</file>
+        <file>Resource/게시판.PNG</file>
+        <file>Resource/나가기.PNG</file>
+        <file>Resource/내정보.PNG</file>
+        <file>Resource/도서목록.PNG</file>
+        <file>Resource/도서찾기.PNG</file>
+        <file>Resource/좌석예약.PNG</file>
+        <file>Resource/white.PNG</file>
+        <file>Resource/서이달의추천도.PNG</file>
+        <file>Resource/이달의신작.PNG</file>
+        <file>Resource/게시판11.PNG</file>
+        <file>Resource/내가기11.PNG</file>
+        <file>Resource/내정보11 (1).PNG</file>
+        <file>Resource/도서목록11 .PNG</file>
+        <file>Resource/도서찾기11 (1).PNG</file>
+        <file>Resource/도서추천11.PNG</file>
+        <file>Resource/좌석예약11 (1).PNG</file>
+        <file>Resource/도수콴.PNG</file>
+        <file>Resource/noImage2.png</file>
+        <file>Resource/bookbig.png</file>
+        <file>Resource/booksmall.png</file>
+        <file>Resource/의자.PNG</file>
+        <file>Resource/의자2.PNG</file>
+        <file>Resource/의자11.PNG</file>
+        <file>Resource/의자22.PNG</file>
+        <file>Resource/A.PNG</file>
+        <file>Resource/B.PNG</file>
+        <file>Resource/C.PNG</file>
+        <file>Resource/D.PNG</file>
+        <file>Resource/E.PNG</file>
+        <file>Resource/F.PNG</file>
+        <file>Resource/computer.PNG</file>
+        <file>Resource/고성.PNG</file>
+        <file>Resource/문막.PNG</file>
+        <file>Resource/양주.PNG</file>
+    </qresource>
+</RCC>
